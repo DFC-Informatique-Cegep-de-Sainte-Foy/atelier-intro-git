@@ -19,7 +19,7 @@ Document pour l'atelier d'introduction à git.
 - Push : Prend votre dépot local et l’envoie vers le dépot distant.
 
 ## Collaboration 101 :
-[Création dépot git d'équipe](Procédure création dépot github d’équipe.md)
+[Création dépot git d'équipe](création-dépot-équipe.md)
 
 Meilleurs pratiques :
 - Pull avant de travailler
